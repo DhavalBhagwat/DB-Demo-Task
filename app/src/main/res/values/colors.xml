@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary App Colors -->
+    <color name="colorPrimary">#013364</color>
+    <color name="colorPrimaryVariant">#00284F</color>
+    <color name="colorOnPrimary">#F8FEFF</color>
+
+    <!-- Secondary/Accent -->
+    <color name="colorSecondary">#FF9800</color>
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Backgrounds -->
+    <color name="colorBackground">#F5F5F5</color>
+    <color name="colorBottomSheetBackground">#F6F6F6</color>
+    <color name="colorBottomBarBackground">#E6E6E6</color>
+    <color name="navItemBackground">#174D9C</color>
+    <color name="colorSurface">#FFFFFF</color>
+    <color name="colorOnSurface">#212121</color>
+
+    <!-- Text -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textLight">#9E9E9E</color>
+
+    <!-- Finance Indicators -->
+    <color name="colorProfit">#4E9C82</color>
+    <color name="colorLoss">#CB555B</color>
+
+    <!-- Dividers -->
+    <color name="divider">#D7D7D7</color>
+</resources>

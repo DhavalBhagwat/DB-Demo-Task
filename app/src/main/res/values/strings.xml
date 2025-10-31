@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DB Demo</string>
+    <string name="label_current_value">Current value: %1$s</string>
+    <string name="label_total_investment">Total investment: %1$s</string>
+    <string name="label_todays_pnl">Today\'s PnL: %1$s</string>
+    <string name="label_total_pnl">Total PnL: %1$s (%2$s%%)</string>
+    <string name="total_investment">Total investment*</string>
+    <string name="current_value">Current value*</string>
+    <string name="today_s_profit_amp_loss"><![CDATA[Today\'s Profit & Loss*]]></string>
+    <string name="profit_amp_loss"><![CDATA[Profit & Loss*]]></string>
+    <string name="rupees_zero">₹0.00</string>
+    <string name="symbol_name">Symbol Name</string>
+    <string name="ltp">LTP:</string>
+    <string name="net_qty">NET QTY:</string>
+    <string name="quantity_one">1</string>
+    <string name="p_amp_l"><![CDATA[P&L:]]></string>
+</resources>
